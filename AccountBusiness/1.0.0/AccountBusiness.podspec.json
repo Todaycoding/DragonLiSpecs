@@ -1,0 +1,23 @@
+{
+  "name": "AccountBusiness",
+  "version": "1.0.0",
+  "summary": "ProtocolServiceKit Example AccountBusiness Moudle",
+  "description": "ProtocolServiceKit Example AccountBusiness Moudle",
+  "homepage": "https://github.com/Todaycoding/ProtocolServiceKit-AccountMoudle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DevdragonLi": "dragonLi_52171@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Todaycoding/ProtocolServiceKit-AccountMoudle.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AccountBusiness/**/*.{h,m}",
+  "public_header_files": "AccountBusiness/LFLVipProtocol.h"
+}

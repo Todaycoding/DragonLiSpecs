@@ -1,0 +1,23 @@
+{
+  "name": "PlayBusiness",
+  "version": "1.0.0",
+  "summary": "ProtocolServiceKit Example PlayBusiness Moudle",
+  "description": "ProtocolServiceKit Example PlayBusiness Moudle.",
+  "homepage": "https://github.com/DevDragonLi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DevdragonLi": "dragonLi_52171@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Todaycoding/ProtocolServiceKit-PlayMoudle.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PlayBusiness/**/*.{h,m}",
+  "public_header_files": "PlayBusiness/LFLPlayProtocol.h"
+}
